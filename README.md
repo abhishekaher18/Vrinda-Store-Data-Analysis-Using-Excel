@@ -10,3 +10,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 6. Relation between age and gender based on number of orders.
 7. Which Channel is contributing maximum to the sales?
 8. Highest selling category?
+
+## Approach:
+1. Verified data for missing values and anomalies, ensuring consistency and cleanliness in terms of data type, format, and values.
+2. Created pivot tables based on specific inquiries.
+3. Consolidated all pivot tables into a unified dashboard, enhancing interactivity and dynamism with slicers.
